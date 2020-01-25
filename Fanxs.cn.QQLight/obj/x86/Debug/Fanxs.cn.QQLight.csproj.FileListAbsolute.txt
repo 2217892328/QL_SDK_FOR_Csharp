@@ -1,0 +1,14 @@
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\bin\x86\Debug\fanxs.cn.ql.dll
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\bin\x86\Debug\fanxs.cn.ql.pdb
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.csprojAssemblyReference.cache
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.MainFrom.Form1.resources
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.csproj.GenerateResource.cache
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.csproj.Fody.CopyLocal.cache
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\fanxs.cn.ql.dll
+D:\AppData\2217892328\FileRecv\C# SDK 4.0.10.0121\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\fanxs.cn.ql.pdb
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\bin\x86\Debug\fanxs.cn.ql.dll
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.MainFrom.Form1.resources
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.csproj.GenerateResource.cache
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.csproj.Fody.CopyLocal.cache
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\fanxs.cn.ql.dll
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Debug\Fanxs.cn.QQLight.Properties.Resources.resources

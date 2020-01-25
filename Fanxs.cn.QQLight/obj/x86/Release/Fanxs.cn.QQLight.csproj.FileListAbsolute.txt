@@ -1,0 +1,9 @@
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\bin\x86\Release\fanxs.cn.ql.dll
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\bin\x86\Release\fanxs.cn.ql.pdb
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Release\Fanxs.cn.QQLight.csprojAssemblyReference.cache
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Release\Fanxs.cn.QQLight.MainFrom.Form1.resources
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Release\Fanxs.cn.QQLight.Properties.Resources.resources
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Release\Fanxs.cn.QQLight.csproj.GenerateResource.cache
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Release\Fanxs.cn.QQLight.csproj.Fody.CopyLocal.cache
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Release\fanxs.cn.ql.dll
+C:\Users\Object\Downloads\QQLight 3.2.9\FANXING_QL_SDK_C#\Fanxs.cn.QQLight\obj\x86\Release\fanxs.cn.ql.pdb
